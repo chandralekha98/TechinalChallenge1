@@ -1,8 +1,8 @@
 **ShopVendor**: 
-The ShopVendor package contains the VendorCustomer class, which simulates a simple shop transaction where a customer purchases items, pays the vendor, and receives the correct change in the minimum number of notes and coins using a method which will be called.
+The ShopVendor package contains the VendorCustomer class, which simulates a simple shop transaction where a customer purchases items, pays the vendor, and receives the correct change in the minimum number of notes and coins using a method that will be called.
 **Features**
 Accepts input for item names and prices.
-Calculates the total amount for the items.
+Calculate the total amount for the items.
 Handles customer payment and computes the change.
 Provides the minimum number of notes and coins for the change.
 **Steps to execute the code:**
